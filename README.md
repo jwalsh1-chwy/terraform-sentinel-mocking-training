@@ -8,6 +8,9 @@ Before you start this course, you should have a basic understanding of Terraform
 
 ## Daily Exercises
 
+- [Sentinel Documentation](https://docs.hashicorp.com/sentinel)
+- VSCode: HashiCorp Sentinel v0.2.2
+  
 ### Day 1: Generating Mock Data
 
 In this exercise, you will learn how to generate mock data using the Terraform Cloud UI and API.
@@ -15,8 +18,11 @@ In this exercise, you will learn how to generate mock data using the Terraform C
 Estimated Time: 1 hour
 
 Additional Resources:
+
+- Defining Sentinel Policies
+- Import: tfconfig
 - [Terraform Sentinel Documentation](https://www.terraform.io/docs/cloud/sentinel/index.html)
-- [Terraform Plan Export API](https://www.terraform.io/docs/cloud/api/plan-export.html)
+- [Terraform Plan Export API](https://developer.hashicorp.com/terraform/cloud-docs/policy-enforcement/sentinel/import/tfplan-v2)
 
 ### Day 2: Using Mock Data
 
@@ -25,7 +31,7 @@ In this exercise, you will learn how to use mock data in your Sentinel policies 
 Estimated Time: 2 hours
 
 Additional Resources:
-- [Sentinel Mocking Documentation](https://www.terraform.io/docs/cloud/sentinel/mock-data.html)
+- [Sentinel Mocking Documentation](https://developer.hashicorp.com/terraform/cloud-docs/policy-enforcement/sentinel/mock)
 
 ### Day 3: Testing Sentinel Policies
 
